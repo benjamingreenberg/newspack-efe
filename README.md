@@ -10,8 +10,13 @@ non-Newspack WordPress sites.
 
 A paid subscription from EFE is required for the Plugin to work.
 
-**This plugin is in the early stages of development, and should not be used in
-production.**
+**This plugin is in the early stages of development, and should not be used in production.**
+
+## Disclaimer
+
+This plugin was not created by EFE, and is not affiliated, associated,
+endorsed by, or in any way officially connected with Agencia EFE, or
+any of its subsidiaries or affiliates.
 
 ## Setup
 
