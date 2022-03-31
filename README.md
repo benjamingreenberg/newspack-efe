@@ -32,14 +32,11 @@ The file will be saved to the site's *wp-content/uploads* directory. It should
 end in ".xml", not contain any spaces, or special characters other than hyphens
 ( - ), underscores ( _ ), or periods ( . ).
 
-### **API Client ID**, **API Client Secret**, and **Product ID**
+**API Client ID** / **API Client Secret** / **Product ID**: You will need to
+contact your EFE representative to get these values.
 
-Your EFE representative will give you the values to put here.
-
-### **Fetch from API**
-
-This checkbox enables fetching from the API, and needs to be checked before you
-can test, manually fetch, or enable auto-fetch.
+**Fetch from API**: This checkbox enables fetching from the API, and needs to be
+checked before you can test, manually fetch, or enable auto-fetch.
 
 ## Usage
 
